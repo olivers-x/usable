@@ -14,7 +14,7 @@ React's `use(promise)` hook suspends a component until the promise resolves. But
 ## Installation
 
 ```bash
-npm install usable
+npm install @olivers-x/usable
 ```
 
 > Requires React ≥ 19.
@@ -22,7 +22,7 @@ npm install usable
 ## Usage
 
 ```tsx
-import { createUsable } from "usable";
+import { createUsable } from "@olivers-x/usable";
 import { Suspense, use } from "react";
 
 // Declared outside the component — lazy, won't fetch until used

@@ -1,5 +1,5 @@
 {
-  "name": "usable",
+  "name": "@olivers-x/usable",
   "version": "1.0.0",
   "description": "Utility library to make async functions usable with React's use() API",
   "type": "module",
